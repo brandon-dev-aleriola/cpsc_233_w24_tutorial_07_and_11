@@ -6,6 +6,7 @@ public class CollectionsDemo {
     public CollectionsDemo(){
     }
 }
+
 class ArrayListCollectionDemo{
     private List<String> list;
 
