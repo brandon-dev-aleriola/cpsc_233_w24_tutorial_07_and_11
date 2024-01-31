@@ -2,7 +2,7 @@ package ObjectOrientedDesign.Classes.Polymorphism;
 
 import java.util.ArrayList;
 
-public class PolymorphismDesign {
+public class PolymorphismExample {
 
 }
 
