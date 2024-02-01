@@ -1,8 +1,8 @@
 # cpsc_233_w24_tutorial_07_and_11
 
+## This is repo is a mirror
 
-
-## Getting started
+ ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
